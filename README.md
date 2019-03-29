@@ -1,2 +1,3 @@
-# Bitmanity
-A repository for a month long front end web development done by me for Bitmanity LLP
+# Blood donation website
+a fully responsive 5 page blood donation website
+includes header and navbar
